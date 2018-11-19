@@ -10,8 +10,8 @@ Loading...
 Welcome to the Ammonite Repl 1.0.3
 (Scala 2.12.4 Java 1.8.0_152)
 If you like Ammonite, please support our development at www.patreon.com/lihaoyi
-@ 23 :: "foo" :: true :: HNil
-res0: Int :: String :: Boolean :: HNil = 23 :: "foo" :: true :: HNil
+@ "Hello" |+| "world!"
+res0: String = "Helloworld!"
 
 @ Bye!
 %
